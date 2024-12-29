@@ -7,7 +7,7 @@
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.
 
 [**Project:**](https://github.com/Sampson-Lee/DSCT) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong>
-DSCT is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
+[DSCT ![](https://img.shields.io/github/stars/Sampson-Lee/DSCT?style=social)](https://github.com/Sampson-Lee/DSCT) is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
 </div>
 </div>
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinpeng (Sampson) Li"
-description              : "PhD student specializing in AI research."
+# description              : "PhD student specializing in AI research."
 repository               : "Sampson-Lee/sampson-lee.github.io"
 google_scholar_stats_use_cdn : true
 

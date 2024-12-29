@@ -1,3 +1,5 @@
+# 😊 About Me
+
 🏫 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](https://github.com/Sampson-Lee/Sampson-Lee/blob/main/CV_XinpengLi_2024_Dec.pdf).
 
 👀 Currently engaged in artificial intelligence and social interaction understanding research.

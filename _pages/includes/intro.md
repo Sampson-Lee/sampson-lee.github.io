@@ -2,7 +2,7 @@
 
 🏫 A first-year PhD at [CS](https://cs.utdallas.edu/) of [UTD](https://www.utdallas.edu/), advised by [Yapeng Tian](https://www.yapengtian.com/). Here is my [CV](./CV_XinpengLi_2024_Dec.pdf).
 
-👀 Currently engaged in artificial intelligence and social interaction understanding research.
+👀 Currently engaged in artificial intelligence and social interaction understanding research <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 ♥️ I like playing badminton and writing short stories outside of research.
 

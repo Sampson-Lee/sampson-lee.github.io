@@ -36,7 +36,7 @@ Real3D-AD is a new dataset and benchmark of high-resolution 3D point clouds for 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2022</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2022</div><img src='images/raildb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rail Detection: An Efficient Row-based Network and a New Benchmark](https://arxiv.org/pdf/2304.05667.pdf) \\

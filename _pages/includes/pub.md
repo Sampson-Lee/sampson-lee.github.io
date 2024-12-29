@@ -7,8 +7,7 @@
 [Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer](https://arxiv.org/pdf/2404.17205) \\
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.
 
-[**Project**](https://github.com/Sampson-Lee/DSCT) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong>
-
+[**Project:**](https://github.com/Sampson-Lee/DSCT) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong>
 DSCT is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
 </div>
 </div>
@@ -20,7 +19,7 @@ DSCT is a single-stage emotion recognition approach for simultaneous subject loc
 [Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition](https://arxiv.org/pdf/2211.06609.pdf) \\
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
 
-[**Project**](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project:**](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>
 AU-ViT improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.
 </div>
 </div>

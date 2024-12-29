@@ -20,7 +20,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Facial Action Units as A Bridge of Joint Dataset Training for Facial Expression Recognition](https://arxiv.org/pdf/2211.06609.pdf) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
 
 [**Project**](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>
   - AU-ViT improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.

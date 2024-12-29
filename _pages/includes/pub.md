@@ -24,3 +24,25 @@ AU-ViT improves the performance of a target dataset by jointly training auxiliar
 </div>
 </div>
 
+## 👀 Other Computer Vision Tasks
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real3D-AD: A Dataset of Point Cloud Anomaly Detection](https://arxiv.org/pdf/2309.13226.pdf) \\
+Jiaqi Liu, Guoyang Xie, Ruitao Chen, **Xinpeng Li**, Jinbao Wang, Yong Liu, Chengjie Wang, Feng Zheng.
+
+[**Project:**](https://github.com/M-3LAB/Real3D-AD) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:d1gkVwhDpl0C'></span></strong>
+Real3D-AD is a new dataset and benchmark of high-resolution 3D point clouds for anomaly detection tasks in real-world scenes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2022</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rail Detection: An Efficient Row-based Network and a New Benchmark](https://arxiv.org/pdf/2304.05667.pdf) \\
+**Xinpeng Li**, and Xiaojiang Peng.
+
+[**Project:**](https://github.com/Sampson-Lee/Rail-Detection) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u-x6o8ySG0sC'></span></strong>
+Rail-DB and Rail-Net are a real-world railway dataset and an efficient row-based rail detection method.
+</div>
+</div>

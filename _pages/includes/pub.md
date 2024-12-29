@@ -1,6 +1,5 @@
 
 # 📝 Publications 
-## 😜 Visual Emotion Recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2024</div><img src='images/dsct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -24,7 +23,6 @@ AU-ViT improves the performance of a target dataset by jointly training auxiliar
 </div>
 </div>
 
-## 👀 Other Computer Vision Tasks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

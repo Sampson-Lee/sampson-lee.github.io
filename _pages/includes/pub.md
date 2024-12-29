@@ -1,8 +1,6 @@
 
 # 📝 Publications 
 ## 😜 Visual Emotion Recognition
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2024</div><img src='images/dsct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -11,7 +9,7 @@
 
 [**Project**](https://github.com/Sampson-Lee/DSCT) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- DSCT is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
+DSCT is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
 </div>
 </div>
 
@@ -23,7 +21,7 @@
 Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
 
 [**Project**](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>
-  - AU-ViT improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.
+AU-ViT improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.
 </div>
 </div>
 

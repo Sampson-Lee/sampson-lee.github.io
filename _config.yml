@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinpeng (Sampson) Li"
+title                    : "Xinpeng Li"
 # description              : "PhD student specializing in AI research."
 repository               : "Sampson-Lee/sampson-lee.github.io"
 google_scholar_stats_use_cdn : true

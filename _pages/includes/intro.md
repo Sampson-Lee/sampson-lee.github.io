@@ -4,7 +4,7 @@
 
 👀 Currently engaged in artificial intelligence and social interaction understanding research. 
 
-♥️ I like playing badminton and writing short stories outside of research.
+♥️ I like playing badminton and writing short stories in my spare time.
 
 📧 Feel free to contact me at [li.xin.peng@outlook.com](mailto:li.xin.peng@outlook.com) or [xinpeng.li@utdallas.edu](mailto:xinpeng.li@utdallas.edu).
 

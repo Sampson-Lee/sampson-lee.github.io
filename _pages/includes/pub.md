@@ -6,7 +6,7 @@
 [Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer](https://arxiv.org/pdf/2404.17205) [![](https://img.shields.io/github/stars/Sampson-Lee/DSCT?style=social)](https://github.com/Sampson-Lee/DSCT) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.
 
-**DSCT** is a single-stage emotion recognition approach for simultaneous subject localization and emotion classification.
+**DSCT** is a single-stage emotion recognition approach, with subject-context decoupling, for simultaneous subject localization and emotion classification.
 </div>
 </div>
 

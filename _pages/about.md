@@ -18,3 +18,4 @@ redirect_from:
 <!-- {% include_relative includes/honers.md %} -->
 
 {% include_relative includes/educations.md %}
+{% include_relative includes/services.md %}

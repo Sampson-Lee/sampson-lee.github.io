@@ -6,4 +6,4 @@
 
 ♥️ My hobbies include playing badminton and writing humorous stories.
 
-✨ I am actively seeking research internship opportunities for Summer 2026.
+✨ I am actively seeking **research internship opportunities** for **Summer 2026**.

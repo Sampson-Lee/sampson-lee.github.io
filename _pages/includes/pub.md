@@ -6,7 +6,7 @@
 [Omni-MMSI: Towards Identity-aware Social Interaction Understanding.]() <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Bolin Lai, Hardy Chen, Shijian Deng, Cihang Xie, Yuyin Zhou, James M. Rehg, Yapeng Tian.
 
-**Omni-MMSI-LLM**, addressing the identity attribution difficulty on raw audio-video input, conduct reasoning to leverage references for identity-aware understanding and strengthen association with tools.
+**Omni-MMSI-LLM**, addressing the identity attribution difficulty in directly operating on raw audio-video input, conduct reasoning to leverage references for identity-aware understanding and strengthen association with tools.
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>

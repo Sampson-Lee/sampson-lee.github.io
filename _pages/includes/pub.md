@@ -9,6 +9,7 @@
 **Omni-MMSI-LLM**, addressing the multimodal social interaction understanding in raw audio-video input, conduct reasoning to leverage references and tools for identity-aware perception and reasoning.
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

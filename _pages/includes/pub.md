@@ -10,7 +10,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at TMLR 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Online Multi-Modal Social Interaction Understanding](https://openreview.net/pdf?id=5P7yVfUEuD) [![](https://img.shields.io/github/stars/Sampson-Lee/OnlineMMSI?style=social)](https://github.com/Sampson-Lee/OnlineMMSI) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\

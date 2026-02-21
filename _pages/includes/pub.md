@@ -9,7 +9,7 @@
 **Omni-MMSI-LLM**, addressing the identity attribution difficulty in directly operating on raw audio-video input, conduct reasoning to leverage references for identity-aware understanding and strengthen association with tools.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Online Multi-Modal Social Interaction Understanding](https://openreview.net/pdf?id=5P7yVfUEuD) [![](https://img.shields.io/github/stars/Sampson-Lee/OnlineMMSI?style=social)](https://github.com/Sampson-Lee/OnlineMMSI) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\

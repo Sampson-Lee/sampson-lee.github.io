@@ -3,10 +3,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/omnimmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Omni-MMSI: Towards Identity-aware Social Interaction Understanding.]() <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
+[Omni-MMSI: Towards Identity-attributed Social Interaction Understanding.]() <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Bolin Lai, Hardy Chen, Shijian Deng, Cihang Xie, Yuyin Zhou, James M. Rehg, Yapeng Tian.
 
-**Omni-MMSI-LLM**, addressing the multimodal social interaction understanding in raw audio-video input, conducts reasoning to leverage references and tools for identity-aware perception and reasoning.
+**Omni-MMSI-R**, addressing the multimodal social interaction understanding in raw audio-video input, a reference-guided pipeline that leverages references to extract identity-attributed social cues and conducts CoT social understanding reasoning.
 </div>
 </div>
 

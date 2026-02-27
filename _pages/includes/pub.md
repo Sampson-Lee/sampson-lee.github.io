@@ -6,11 +6,11 @@
 [Omni-MMSI: Towards Identity-attributed Social Interaction Understanding.]() <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Bolin Lai, Hardy Chen, Shijian Deng, Cihang Xie, Yuyin Zhou, James M. Rehg, Yapeng Tian.
 
-**Omni-MMSI-R**, addressing the multimodal social interaction understanding in raw audio-video input, is a reference-guided pipeline that extracts identity-attributed social cues with tools and conducts chain-of-thought social reasoning.
+**Omni-MMSI-R**, addressing the multimodal social interaction understanding in raw audio-video input, is a reference-guided pipeline that extracts identity-attributed cues augmented by tools and conducts chain-of-thought reasoning.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at TMLR 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Online Multi-Modal Social Interaction Understanding](https://openreview.net/pdf?id=5P7yVfUEuD) [![](https://img.shields.io/github/stars/Sampson-Lee/OnlineMMSI?style=social)](https://github.com/Sampson-Lee/OnlineMMSI) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\

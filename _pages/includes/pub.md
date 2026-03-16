@@ -10,13 +10,23 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/onlinemmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Online Multi-Modal Social Interaction Understanding](https://sampson-lee.github.io/online-mmsi-project-page/) [![](https://img.shields.io/github/stars/Sampson-Lee/OnlineMMSI?style=social)](https://github.com/Sampson-Lee/OnlineMMSI) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Shijian Deng, Bolin Lai, Weiguo Pian, James M. Rehg, Yapeng Tian.
 
 **Online-MMSI-VLM** is a novel framework, for the newly proposed online MMSI setting, that leverages multi-party conversation forecasting and social-aware visual prompting with multimodal large language models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/auvt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Facial Action Units as a Joint Dataset Training Bridge for Facial Expression Recognition](https://arxiv.org/pdf/2211.06609.pdf) [![](https://img.shields.io/github/stars/msy1412/ABAW4?style=social)](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>\\
+Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
+
+**AU-ViT** improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.
 </div>
 </div>
 
@@ -27,16 +37,6 @@
 **Xinpeng Li**, Teng Wang, Jian Zhao, Shuyi Mao, Jinbao Wang, Feng Zheng, Xiaojiang Peng, Xuelong Li.
 
 **DSCT** is a single-stage emotion recognition approach, with subject-context decoupling, for simultaneous subject localization and emotion classification.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/auvt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Facial Action Units as a Joint Dataset Training Bridge for Facial Expression Recognition](https://arxiv.org/pdf/2211.06609.pdf) [![](https://img.shields.io/github/stars/msy1412/ABAW4?style=social)](https://github.com/msy1412/ABAW4) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:2osOgNQ5qMEC'></span></strong>\\
-Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
-
-**AU-ViT** improves the performance of a target dataset by jointly training auxiliary datasets with off-the-shelf or pseudo AU labels.
 </div>
 </div>
 

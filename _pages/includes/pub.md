@@ -40,7 +40,7 @@ Shuyi Mao, **Xinpeng Li**, Fan Zhang, Xiaojiang Peng, and Yang Yang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS DB 2023</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real3D-AD: A Dataset of Point Cloud Anomaly Detection](https://arxiv.org/pdf/2309.13226.pdf) [![](https://img.shields.io/github/stars/M-3LAB/Real3D-AD?style=social)](https://github.com/M-3LAB/Real3D-AD) <strong><span class='show_paper_citations' data='59fdU3wAAAAJ:d1gkVwhDpl0C'></span></strong>\\

@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/omnimmsi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Omni-MMSI: Towards Identity-attributed Social Interaction Understanding.](https://sampson-lee.github.io/omni-mmsi-project-page/) [![](https://img.shields.io/github/stars/Sampson-Lee/OmniMMSI?style=social)](https://github.com/Sampson-Lee/OmniMMSI)<strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
+[Omni-MMSI: Toward Identity-attributed Social Interaction Understanding.](https://sampson-lee.github.io/omni-mmsi-project-page/) [![](https://img.shields.io/github/stars/Sampson-Lee/OmniMMSI?style=social)](https://github.com/Sampson-Lee/OmniMMSI)<strong><span class='show_paper_citations' data='59fdU3wAAAAJ:u5HHmVD_uO8C'></span></strong> \\
 **Xinpeng Li**, Bolin Lai, Hardy Chen, Shijian Deng, Cihang Xie, Yuyin Zhou, James M. Rehg, Yapeng Tian.
 
 **Omni-MMSI-R**, addressing the multimodal social interaction understanding in raw audio-video input, is a reference-guided pipeline that extracts identity-attributed cues augmented by tools and conducts chain-of-thought reasoning.
